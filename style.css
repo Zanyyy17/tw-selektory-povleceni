@@ -1,0 +1,41 @@
+.všechno {
+    border-radius: 5px;           /* kulaté rohy */ 
+    background-color: #7b3acf;  
+    padding: 2%;
+    display: flex;
+    flex-wrap: wrap;             /* umožní zalamování karet */
+    gap: 16px;                   /* mezery mezi kartami */
+    text-align: center;
+    background-color: rgb(165, 159, 159);
+    }
+      
+
+
+.karta{
+    border-radius: 5px;
+    background-color: rgb(247, 103, 191);
+    margin-bottom: 5%;       /* mezera mezi kartami */
+    padding: 5%;
+}
+
+.Upozornění {border-radius: 5px;
+    background-color: rgb(255, 251, 11);
+    padding: 5%;}
+  
+    .detail {
+        display: inline-block;           
+        background-color: rgba(0, 0, 255, 0.5); 
+        padding: 10px 20px;             
+        border-radius: 8px;          
+        font-weight: bold;          
+      }
+
+      .nejprodávanější {
+        background-color: #07ddc1;  
+        padding: 20px;              
+        border-radius: 10px;        
+        text-align: center;         
+      } 
+
+      
+      
